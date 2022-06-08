@@ -115,7 +115,6 @@ const initMap = async () => {
 
     initDrawinng(map)
     showShapesInBox(map)
-    // showCurrentShape({}, map)
 }
 
 // INICIA BUSCA DE DADOS SALVOS NO LOCAL STORAGE
